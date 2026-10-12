@@ -1,0 +1,12 @@
+
+body {
+    text-align: center;
+}
+
+#counter {
+    font-size: 32px;
+}
+
+button {
+    cursor: pointer;
+}
