@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+h1 {
+    color: #333333;
+}
+
+.active {
+    color: green;
+    background-color: lightyellow;
+    padding: 10px;
+    border-radius: 8px;
+}
